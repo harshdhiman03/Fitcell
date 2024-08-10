@@ -90,29 +90,4 @@ Fitcel is a comprehensive fitness and wellness app that helps users achieve thei
 * Margin: `16`
 * Padding: `8`
 
-## Development
---------------
 
-The app was built using:
-
-* [React Native](https://reactnative.dev/)
-* [Figma](https://www.figma.com/)
-* [Tokens Studio](https://tokens.studio/)
-
-The code is hosted on [GitHub](https://github.com/).
-
-## Contributing
---------------
-
-If you'd like to contribute to the development of Fitcel, please:
-
-1. Fork the repository
-2. Make your changes
-3. Submit a pull request
-
-We welcome feedback and suggestions on how to improve the app.
-
-## License
----------
-
-Fitcel is licensed under the [MIT License](https://opensource.org/licenses/MIT).
