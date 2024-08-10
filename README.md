@@ -6,6 +6,9 @@
 
 Fitcel is a comprehensive fitness and wellness app that helps users achieve their health goals. The app is designed to provide a personalized experience, with features such as workout planning, diet tracking, and progress monitoring.
 
+![Landing](https://github.com/user-attachments/assets/d6b25188-16d9-44f0-9a5b-fb9f0dd85342)
+
+
 ## Features
 ------------
 
@@ -25,7 +28,15 @@ Fitcel is a comprehensive fitness and wellness app that helps users achieve thei
 
 * Receive tailored advice on workout routines and diet plans
 
-## Pages
+## Celebrities and Plans
+---------
+
+1. Home Page
+
+   ![home page](https://github.com/user-attachments/assets/02ea1262-3be0-4d05-b8aa-3ed54bbb6875)
+
+
+## Celebrities and Plans
 ---------
 
 ### 1. Michael Jordan
